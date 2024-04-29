@@ -20,6 +20,6 @@ public class Product {
     private String supplierId;
     private LocalDateTime createdDate;
     private LocalDateTime updatedDate;
-    private String updatedUserId;
+   
 
 }
